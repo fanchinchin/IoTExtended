@@ -7,7 +7,7 @@
         "core": "*"
     },
     "files": [
-        "environment.ts",
+        "main.ts",
         "README.md",
         "_locales/Environment-and-Science-IoT-strings.json"
     ],
