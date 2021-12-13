@@ -4,7 +4,7 @@
     "description": "Environment and Science IoT Kit for micro:bit",
     "license": "MIT",
     "dependencies": {
-        "core": "*",
+        "core": "*"
     },
     "files": [
         "environment.ts",
