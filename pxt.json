@@ -7,13 +7,11 @@
         "core": "*"
     },
     "files": [
-        "main.ts",
         "README.md",
+        "main.ts",
         "_locales/Environment-and-Science-IoT-strings.json"
     ],
-    "testFiles": [
-        "tests.ts"
-    ],
+
     "public": true,
     "targetVersions": {
         "target": "4.0.11",
