@@ -9,7 +9,7 @@
     "files": [
         "README.md",
         "main.ts",
-        "_locales/zh/Environment-and-Science-IoT-strings.json"
+        "_locales/Environment-and-Science-IoT-strings.json"
     ],
 
     "public": true,
